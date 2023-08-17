@@ -1,7 +1,7 @@
 # Hotel domain Analysis
 
 ## AtliQ Hospitality Analysis - PowerBI
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+This Project is the part of the codebasics resume challenge series, I have worked on this analysis project.
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/codebasics-resume-project-challenge--1--hospitality-domain)_
 
